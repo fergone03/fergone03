@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fergone03&label=Profile%20views&color=0e75b6&style=flat" alt="fergone03" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fergone03" alt="fergone03" /></a> </p>
 
 - 🔭 I’m currently working on [Material para desarrolladores](https://material-para-desarrolladores.netlify.app/)
