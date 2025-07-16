@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fergone03" alt="fergone03" /></a> </p>
-
 - 🔭 I’m currently working on [Material para desarrolladores](https://material-para-desarrolladores.netlify.app/)
 
 - 🌱 I’m currently learning **Rust**
