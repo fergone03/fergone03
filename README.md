@@ -1,12 +1,10 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&amp;color=7C3AED&amp;height=180&amp;section=header&amp;text=Esteban%20Fern%C3%A1ndez&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Full%20Stack%20Developer%20%26%20Data%20Engineer%20%C2%B7%20Granada%2C%20Spain&amp;descAlignY=57&amp;descAlign=50&amp;descSize=15)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=fergone03&amp;color=7C3AED&amp;style=flat-square&amp;label=Profile+views)](https://github.com/fergone03)
-[![Portfolio](https://img.shields.io/badge/Portfolio-devsteban.netlify.app-7C3AED?style=flat-square&amp;logo=netlify&amp;logoColor=white)](https://devsteban.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Fern%C3%A1ndez-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/estebanfernandezgonzalez)
-[![Email](https://img.shields.io/badge/Email-fergonesteban03@gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white)](mailto:fergonesteban03@gmail.com)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7C3AED&amp;height=180&amp;section=header&amp;text=Esteban%20Fern%C3%A1ndez&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Full%20Stack%20Developer%20%26%20Data%20Engineer%20%C2%B7%20Granada%2C%20Spain&amp;descAlignY=57&amp;descAlign=50&amp;descSize=15" alt="header" width="100%" />
+  <br/>
+  <a href="https://github.com/fergone03"><img src="https://komarev.com/ghpvc/?username=fergone03&amp;color=7C3AED&amp;style=flat-square&amp;label=Profile+views" alt="Profile views" /></a>
+  <a href="https://devsteban.netlify.app"><img src="https://img.shields.io/badge/Portfolio-devsteban.netlify.app-7C3AED?style=flat-square&amp;logo=netlify&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/estebanfernandezgonzalez"><img src="https://img.shields.io/badge/LinkedIn-Esteban%20Fern%C3%A1ndez-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fergonesteban03@gmail.com"><img src="https://img.shields.io/badge/Email-fergonesteban03@gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </div>
 
 ---
@@ -15,25 +13,25 @@ Desarrollador con perfil **Full Stack y Data Engineer**. Empecé a programar dur
 
 Hoy trabajo en el ciclo de vida completo del dato y en el desarrollo de plataformas web corporativas, y busco una empresa donde seguir creciendo a largo plazo.
 
-- 💼 **Data Engineer** @ Realidad Docente &nbsp;|&nbsp; **Google Cloud Technician** @ TDTandem
-- 🎓 TFG en curso: **eFCT** — plataforma para FCT con chat en tiempo real, firma electrónica y memoria de prácticas
+- 💼 **Data Engineer** @ Realidad Docente | **Google Cloud Technician** @ TDTandem
+- 🎓 TFG en curso: **eFCT** — plataforma FCT con chat en tiempo real, firma electrónica y memoria de prácticas
 - 🃏 En desarrollo: **4 de Oros** — catálogo colaborativo de juegos de naipes con React + Supabase
 - 📬 **fergonesteban03@gmail.com**
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Stack | Descripción |
 |----------|-------|-------------|
-| **eFCT** &nbsp;`TFG` | `React` `TypeScript` `Tailwind` `Supabase` `Django` | Plataforma FCT que conecta tutores, profesores y alumnos. Chat en tiempo real, firma electrónica de hojas semanales y memoria de prácticas en vista cascada y calendario. |
+| **eFCT** `TFG` | `React` `TypeScript` `Tailwind` `Supabase` `Django` | Plataforma FCT que conecta tutores, profesores y alumnos. Chat en tiempo real, firma electrónica de hojas semanales y memoria de prácticas en vista cascada y calendario. |
 | **4 de Oros** | `React` `TypeScript` `Tailwind` `Supabase` | Catálogo colaborativo de juegos de naipes (baraja española y francesa). Los usuarios pueden añadir sus propios juegos y compartirlos con amigos. |
 | **DevSpark** | `PHP` `MySQL` `React` `Bootstrap` | Plataforma de gestión de proyectos con sistema de roles y panel de administración completo. |
 | **Material para devs** | `React` `TypeScript` `Bootstrap` | Plataforma de recursos para desarrolladores con favoritos privados y filtrado por categorías. |
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 **Frontend**
 
@@ -55,7 +53,7 @@ Hoy trabajo en el ciclo de vida completo del dato y en el desarrollo de platafor
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&amp;logo=laravel&amp;logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white)
 
-**Data &amp; IA**
+**Data y IA**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white)
@@ -63,7 +61,7 @@ Hoy trabajo en el ciclo de vida completo del dato y en el desarrollo de platafor
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&amp;logo=dbt&amp;logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&amp;logo=snowflake&amp;logoColor=white)
 
-**Cloud &amp; DevOps**
+**Cloud y DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white)
@@ -82,23 +80,19 @@ Hoy trabajo en el ciclo de vida completo del dato y en el desarrollo de platafor
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=fergone03&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs?username=fergone03&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8)
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=fergone03&amp;theme=tokyonight&amp;hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=fergone03&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" alt="stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fergone03&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="top langs" height="165" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fergone03&amp;theme=tokyonight&amp;hide_border=true" alt="streak" />
 </div>
 
 ---
 
 <div align="center">
-
-**¿Hablamos?** &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/estebanfernandezgonzalez) &nbsp;·&nbsp; [Portfolio](https://devsteban.netlify.app) &nbsp;·&nbsp; [fergonesteban03@gmail.com](mailto:fergonesteban03@gmail.com)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&amp;color=7C3AED&amp;height=100&amp;section=footer)
-
+  <strong>Hablamos?</strong> - <a href="https://linkedin.com/in/estebanfernandezgonzalez">LinkedIn</a> - <a href="https://devsteban.netlify.app">Portfolio</a> - <a href="mailto:fergonesteban03@gmail.com">fergonesteban03@gmail.com</a>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7C3AED&amp;height=100&amp;section=footer" alt="footer" width="100%" />
 </div>
